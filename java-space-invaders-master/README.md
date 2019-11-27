@@ -21,7 +21,7 @@ Shot: Spacebar;
 
 # Game Screens
 
-![Initial Screen](https://raw.githubusercontent.com/tatilattanzi/space-invaders/master/screens/space-invaders-initial-screen.png)
+![Initial Screen](https://https://github.com/amor906/amr.github.io/blob/master/Capture1.PNG)
 
 ![Game Screen](https://raw.githubusercontent.com/tatilattanzi/space-invaders/master/screens/space-invaders-game-screen.png)
 
